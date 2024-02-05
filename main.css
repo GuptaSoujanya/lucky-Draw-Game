@@ -1,0 +1,32 @@
+ @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Tilt+Prism&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.head{
+    margin: 30px;
+    text-shadow: 10px 0 #150734;
+    font-size: 8rem;
+    color: #fbeceb;
+    text-decoration: underline ;
+    font-family: 'Tilt Prism', cursive;
+}
+
+body{
+    background-color: #002447;
+    color: #feb249;
+}
+.btn{
+     color: #feb249;
+     background-color: black;
+     margin-top: 40px;
+}
+.btn:hover{
+     color: black;
+     background-color:#feb249 ;
+}
+#p1,#p2,.#p4{
+    font-family: 'Bebas Neue', sans-serif;
+}
